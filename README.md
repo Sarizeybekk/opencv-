@@ -69,9 +69,6 @@ pip install -r requirements.txt
 - The application uses the **KCF tracker** by default, but you can modify the code to use other OpenCV-supported trackers such as **MOSSE** or **CSRT**.
 - Ensure that the video file format is supported by OpenCV (e.g., `.mp4`, `.avi`, `.mov`).
 
-## 📜 License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
 
 
 ## 🙏 Acknowledgments
